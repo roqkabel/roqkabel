@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm Obed Asante, from Ghana.<br><br>I’m a full-stack developer who has awesome years of experience in software development.<br>Being a full-stack allows me to not only develop client-facing apps and websites <br>but also develop them with cutting-edge backend support.<br><br>I specialize in building robust backends that do all the heavy lifting for your app or website. <br>I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective.<br><br>I am into DevOps engineering and I have experience in Kubernetes and AWS Cloud.<br>I like to develop scalable and fault-tolerant systems using only the best practices.<br><br>I am currently focusing on Platform Engineering & DevOps.<br><br>
+I'm Obed Asante, from Ghana.<br><br>I’m a full-stack developer who has awesome years of experience in software development.<br>Being a full-stack allows me to not only develop client-facing apps and websites <br>but also develop them with cutting-edge backend support.<br><br>I specialize in building robust backends that do all the heavy lifting for your app or website. <br>I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective.<br><br>I am into DevOps engineering and I have experience in Kubernetes and AWS Cloud.<br>I like to develop scalable and fault-tolerant systems using only the best practices.<br><br>I am currently focusing on DevOps Engineering. <br><br>
 
 
 ## 🌐 Socials:
